@@ -1,0 +1,19 @@
+html {
+  font-size: 22px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  padding: 3px 0;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
